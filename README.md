@@ -24,18 +24,24 @@ alias nff="fastfetch"
 PS1='\[\e[38;5;25;1m\]┌─\[\e[0;38;5;25m\][\[\e[38;5;111;1m\]\u\[\e[22m\]@\[\e[1m\]\h\[\e[0;38;5;25m\]]\[\e[38;5;25m\]-\[\e[38;5;25m\][\[\e[38;5;111m\]\T\[\e[38;5;25m\]]-[\[\e[0m\] \[\e[38;5;117;3m\]\w\[\e[0m\] \[\e[38;5;25m\]]\n\[\e[1m\]└\[\e[22m\]\$\[\e[0m\] '
 ```
 ---
-# Screenshots (up to date)
+# Screenshots (10/20/2024)
+---
 custom command input
 ![image](https://github.com/user-attachments/assets/4fa756ce-529d-497c-890f-69746693f122)
+---
 fastfetch
 ![image](https://github.com/user-attachments/assets/060b1311-86ae-4916-8ae8-aac5b946f117)
+---
 neofetch
 ![image](https://github.com/user-attachments/assets/39b536ac-ffb5-4493-8d3b-4f00332149ea)
+---
 wallpaper and fastfetch
 ![image](https://github.com/user-attachments/assets/af3a2396-dc5c-43e3-8293-fa9cb0e4f3d7)
+---
 wallpaper and neofetch
 ![image](https://github.com/user-attachments/assets/313b28e4-11be-4245-b322-c63605a3ac56)
+---
 wallpaper plain
 ![image](https://github.com/user-attachments/assets/92762090-24f2-4e65-a1dc-e1826025e49f)
-
+---
 
