@@ -7,7 +7,8 @@
 > Picom, Polybar, Rofi, Kitty, Neofetch, Fastfetch ScreenGrab
 ---
 .bashrc addons:
-``` if [ "$TERM" = "xterm-kitty" ]
+```
+if [ "$TERM" = "xterm-kitty" ]
 then
   fastfetch --kitty-direct /home/SP649/.config/gentoo.png --logo-width 26 --logo-height 14
 else
