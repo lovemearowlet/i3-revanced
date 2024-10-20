@@ -1,5 +1,5 @@
 
-exec feh --bg-scale ~/mydwm/wp.jpg &
+exec feh --bg-scale ~/.config/wp.jpg &
 exec_always polybar -r i3bar &
 exec_always polybar -r i3bar2 &
 
