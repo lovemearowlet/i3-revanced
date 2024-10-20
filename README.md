@@ -5,3 +5,4 @@ Just a basic rice for i3. It has a custom rofi and polybar theme. The custom Kit
 ---
 ## Software Needed:
 Picom, Polybar, Rofi, Kitty
+---
