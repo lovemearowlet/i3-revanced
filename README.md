@@ -6,7 +6,7 @@
 ## Software Needed:
 > Picom, Polybar, Rofi, Kitty, Neofetch, Fastfetch, ScreenGrab
 ---
-.bashrc addons:
+# .bashrc addons:
 ```
 if [ "$TERM" = "xterm-kitty" ]
 then
@@ -23,3 +23,8 @@ alias nff="fastfetch"
 
 PS1='\[\e[38;5;25;1m\]┌─\[\e[0;38;5;25m\][\[\e[38;5;111;1m\]\u\[\e[22m\]@\[\e[1m\]\h\[\e[0;38;5;25m\]]\[\e[38;5;25m\]-\[\e[38;5;25m\][\[\e[38;5;111m\]\T\[\e[38;5;25m\]]-[\[\e[0m\] \[\e[38;5;117;3m\]\w\[\e[0m\] \[\e[38;5;25m\]]\n\[\e[1m\]└\[\e[22m\]\$\[\e[0m\] '
 ```
+---
+# Screenshots (up to date)
+custom command input
+![custom cmd input]([http://url/to/img.png](https://github.com/lovemearowlet/i3-revanced/blob/main/screenshots/ci1.png?raw=true))
+
